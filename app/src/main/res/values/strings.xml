@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PMB Poltekpos</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="pengumuman">Pengumuman</string>
+    <string name="daftar_ulang">Daftar Ulang</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="faq">FAQ</string>
+    <string name="panduan">Panduan</string>
+    <string name="admin">Admin</string>
+    <string name="penerimaan_mahasiswa_baru">Penerimaan Mahasiswa Baru</string>
+    <string name="reguler">Reguler</string>
+    <string name="raport">Raport</string>
+    <string name="undangan">Undangan</string>
+    <string name="mandiri">Mandiri</string>
+    <string name="program_rpl">Program RPL</string>
+    <string name="beasiswa_aperti">Beasiswa APERTI</string>
+    <string name="pendaftaran_mahasiswa_baru">Pendaftaran Mahasiswa Baru Politeknik Pos Indonesia Sesuai Jalur</string>
+</resources>

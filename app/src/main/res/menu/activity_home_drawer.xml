@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_panduan"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="@string/panduan" />
+        <item
+            android:id="@+id/nav_daftar"
+            android:icon="@drawable/ic_person_add_black_24dp"
+            android:title="@string/pendaftaran" />
+        <item
+            android:id="@+id/nav_pengumuman"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/pengumuman" />
+        <item
+            android:id="@+id/nav_daftar_ulang"
+            android:icon="@drawable/time"
+            android:title="@string/daftar_ulang" />
+        <item
+            android:id="@+id/nav_pembayaran"
+            android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+            android:title="@string/pembayaran" />
+        <item
+            android:id="@+id/nav_jadwal"
+            android:icon="@drawable/ic_baseline_access_time_24"
+            android:title="@string/jadwal" />
+        <item
+            android:id="@+id/nav_FAQ"
+            android:icon="@drawable/ic_baseline_question_answer_24"
+            android:title="@string/faq" />
+        <item
+            android:id="@+id/nav_Admin"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/admin" />
+    </group>
+
+</menu>
